@@ -29,14 +29,14 @@ This Repository is created for easy management and accessiblity.
 |Assignment 2B - Abstract Data Type and Collections|[Link](https://github.com/i-dipanshu/CSW-II-Labs#assignment-2b---abstract-data-type-and-collections)|
 
 
-## Date - 14 March 2023
+## 14 March 2023
 1) Write a Java program that takes an integer array as input and returns the sum of all elements of the array.
 
 2) WAP that takes an array and a value to search for, performs a linear search, if the element is found return the index, if not found return -1.
-## Date - 17 March 2023
+## 17 March 2023
 1) Write a Java that takes an array as input and searches the array for some given value, use binary search.
 
-## Date - 27 March 2023
+## 27 March 2023
 1) For a given value of N, write a program to find N! using recursion.
 
 2) For a given value of N, write a program to find the triangular value of N using recursion.
@@ -51,17 +51,17 @@ This Repository is created for easy management and accessiblity.
 
 7) WAP to generate all permutations in an integer array
 
-## Date - 28 March 2023
+## 28 March 2023
 1) Given two arrays in increasing order, you need to find the maximum sum by choosing a few consecutive elements from one array and then a few elements from another array. The element switching can happen at transition points only when the value of the element is the same in both arrays. WAP to find the maximum path sum.
 
 2) Given an array you need to find the maximum sum of arr[i]*(i+1) for all elements such that you are allowed to rotate the array. WAP to find the max circular sum.
 
 3) WAP to create an ArrayList of string values. Add six strings to it. Iterate through it using an iterator, for each loop and for a loop. Display the values. Find the index of the first occurrence of an element in the ArrayList and find an index of the last occurrence of an element in the ArrayList.
 
-## Date - 31 March 2023
+## 31 March 2023
 1) WAP to create an ArrayList of type integer. Add a few elements to it. Display the elements of the ArrayList in reverse order. Find the maximum and minimum values in the Java ArrayList. Swap the 2nd and 6th index values of the ArrayList and display the contents after swapping.
 
-## Date - 03 April 2023
+## 03 April 2023
 Q1. Write a program to create an ArrayList of Integer type and perform the below operations.
 
 (a.) Display the list
@@ -81,7 +81,7 @@ Q2. Create a class Student having member variable name, age, mark, and required 
 (c.) Remove a specified student object.
 
 (d.) Count the number of objects present in the list.
-## Date - 04 April 2023
+## 04 April 2023
 1) Write a Java program that performs the following operations.
 
     a) Uses Stack class of type String.
@@ -98,14 +98,14 @@ Q2. Create a class Student having member variable name, age, mark, and required 
 
 4) WAP to add integer values to a PriorityQueue class. Display the values in ascending order as well as descending order.
 
-## Date - 10 April 2023
+## 10 April 2023
 1) Given an unsorted array, implement insertion sort and merge sort to sort the arrays. 
 
 2) Given an array containing 0s and 1s. Write a Java program to sort the array so that 0s come first followed by 1s in linear time.
 
 3) Given an array containing 0s, 1s, and 2s. Write a Java program to sort the array so that 0s come first followed by 1s followed by 2s in linear time.
 
-## Date - 17 April 2023
+## 17 April 2023
 1) Given an unsorted array, write a Java program to implement quick sort.
 
 2) Given an array, search for a value at a particular index using the quick select method.
@@ -113,7 +113,7 @@ Q2. Create a class Student having member variable name, age, mark, and required 
 3) Given two arrays, sort the first array according to the order defined in the second array. Example arr1 = {2,1,2,5,7,1,9,3,6,8,8} arr2 = {2,1,8,3} o/p {2,2,1,1,8,8,3,5,7,9,6}
 
 4) Given two unsorted arrays, find the union and intersection of these two arrays.
-## Date - 18 April 2023
+## 18 April 2023
 1) Write a Java program to implement counting sort for a given range of values.
 
 2) Write a Java program to implement bucket sort.
