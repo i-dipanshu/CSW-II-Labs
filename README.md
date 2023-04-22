@@ -1,11 +1,7 @@
 # CSW II - MY Personal Dump
 This Repository is created for easy management and accessiblity.
 
-# Quick Links 
-- All Questions and Assignment - [Click Here](https://docs.google.com/document/d/1uKVStO99xYzFXuk5M1SF8tKDzGmFkglBB4OWE3OkE3k/edit#)
-- Assigment 1 - [Click Here](https://github.com/i-dipanshu/CSW-II-Labs/tree/main/Assignment_1)
-- Assigmnet 2 - [Click Here - 2A](https://github.com/i-dipanshu/CSW-II-Labs/tree/main/Assignment_2A) | [Click Here - 2B](https://github.com/i-dipanshu/CSW-II-Labs/tree/main/Assignment_2B)
-- Classwork Qns For April - [Click Here](https://github.com/i-dipanshu/CSW-II-Labs/tree/main/Classworks/April)
+### All Questions and Assignment - [Click Here](https://docs.google.com/document/d/1uKVStO99xYzFXuk5M1SF8tKDzGmFkglBB4OWE3OkE3k/edit#)
 
 # Quick Access
 
@@ -64,28 +60,28 @@ This Repository is created for easy management and accessiblity.
 ## 03 April 2023
 Q1. Write a program to create an ArrayList of Integer type and perform the below operations.
 
-(a.) Display the list
+    a. Display the list
 
-(b.) Ask the user to enter a number and search whether that number is present in the list or not.
+    b. Ask the user to enter a number and search whether that number is present in the list or not.
 
-(c.) Remove an element from an asked position.
+    c. Remove an element from an asked position.
 
-(d.) Add a condition to check whether the ArrayList is empty or not.
+    d. Add a condition to check whether the ArrayList is empty or not.
 
 
 
 Q2. Create a class Student having member variable name, age, mark, and required member functions. Create a LinkedList of Student type and perform the below operation on it.
 
-(a.) Display the list
+    a.Display the list
 
-(b.) Ask the user to enter a student object and print the existence of the object. Specify if the object in search is according to reference or contains.
+    b. Ask the user to enter a student object and print the existence of the object. Specify if the object in search is according to reference or contains.
 
-(c.) Remove a specified student object.
+    c. Remove a specified student object.
 
-(d.) Count the number of objects present in the list.
+    d. Count the number of objects present in the list.
 ## 04 April 2023
 1) Write a Java program that performs the following operations.
-
+```
     a) Uses Stack class of type String.
    
     b) Add values to the stack.
@@ -93,7 +89,7 @@ Q2. Create a class Student having member variable name, age, mark, and required 
     c) Display them in the natural order as well as in reverse order.
 
     d) Perform peek(), pop() and isEmpty() operations.
-
+```
 2) Implement stack data structure using ArrayDeque class.
 
 3) Implement queue data structure using ArrayDeque class.
@@ -167,6 +163,7 @@ Analyze its time complexity.
 Q1. Write a program to create an ArrayList of Integer type and perform
 
 the below operation on it.
+```
 
 (a.) Display the list
 
@@ -175,9 +172,9 @@ the below operation on it.
 (c.) Remove an element from an asked position.
 
 (d.) Add a condition to check whether the ArrayList is empty or not.
-
+```
 Q2. Create a class Student having member variable name, age, mark, and required member variable. Create a LikedList of Student type and perform the below operation on it.
-
+```
 (a.) Display the list
 
 (b.) Ask the user to enter a student object and print the existence of
@@ -189,7 +186,7 @@ or contained.
 (c.) Remove a specified student object.
 
 (d.) Count the number of objects present in the list.
-
+```
 Q3. Write a Java program to convert a decimal to a binary equivalent using
 
 Stack (Stack collection).
@@ -203,7 +200,7 @@ Q6. Write a Java program to traverse a graph using depth-first search. ( Stack c
 ## Assignment 2B - Abstract Data Type and Collections
 
 Q1. Write a program to create a TreeSet of Integer type and perform the below operation on it.
-
+```
 (a.) Display the TreeSet
 
 (b.) Ask the user to enter a number and search for whether that number too is 
@@ -211,7 +208,7 @@ Q1. Write a program to create a TreeSet of Integer type and perform the below op
 present in the list or not.
 
 (c.) Remove an element from the tree.
-
+```
 Q2. Write a program to create a class named Address, having member variable plot no, at, post, and required member function. Create a tree map having the key as the name of a person and the value as the address. Insert the required key and value in the created tree map and display it.
 
 Q3. Shortest remaining time next(SRTN) is a scheduling algorithm that serves first the process which has the shortest remaining time among all the processes. Write a Java program that takes N process burst time and prints the scheduling sequence using SRTN.
