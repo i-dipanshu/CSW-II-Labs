@@ -9,31 +9,25 @@ This Repository is created for easy management and accessiblity.
 
 # Quick Access
 
-[14 March 2023](https://github.com/i-dipanshu/CSW-II-Labs#14-march-2023)
+| Date | Link |
+|------|------|
+|14 March 2023|[Link](https://github.com/i-dipanshu/CSW-II-Labs#14-march-2023)|
+|17 March 2023|[Link](https://github.com/i-dipanshu/CSW-II-Labs#17-march-2023)|
+|27 March 2023|[Link](https://github.com/i-dipanshu/CSW-II-Labs#27-march-2023)|
+|28 March 2023|[Link](https://github.com/i-dipanshu/CSW-II-Labs#28-march-2023)|
+|31 March 2023|[Link](https://github.com/i-dipanshu/CSW-II-Labs#31-march-2023)|
+|03 April 2023|[Link](https://github.com/i-dipanshu/CSW-II-Labs#03-april-2023)|
+|04 April 2023|[Link](https://github.com/i-dipanshu/CSW-II-Labs#04-april-2023)|
+|10 April 2023|[Link](https://github.com/i-dipanshu/CSW-II-Labs#10-april-2023)|
+|17 April 2023|[Link](https://github.com/i-dipanshu/CSW-II-Labs#17-april-2023)|
+|18 April 2023|[Link](https://github.com/i-dipanshu/CSW-II-Labs#18-april-2023)|
 
-[17 March 2023](https://github.com/i-dipanshu/CSW-II-Labs#17-march-2023)
+| Assignment | Link |
+|------|------|
+|Assignment 1- Analysis and Array|[Link](https://github.com/i-dipanshu/CSW-II-Labs#assignment-1--analysis-and-array)|
+|Assignment 2A - Abstract Data Type and Collection|[Link](https://github.com/i-dipanshu/CSW-II-Labs#assignment-2a---abstract-data-type-and-collection)|
+|Assignment 2B - Abstract Data Type and Collections|[Link](https://github.com/i-dipanshu/CSW-II-Labs#assignment-2b---abstract-data-type-and-collections)|
 
-[27 March 2023](https://github.com/i-dipanshu/CSW-II-Labs#27-march-2023)
-
-[28 March 2023](https://github.com/i-dipanshu/CSW-II-Labs#28-march-2023)
-
-[31 March 2023](https://github.com/i-dipanshu/CSW-II-Labs#31-march-2023)
-
-[Date - 03 April 2023](https://github.com/i-dipanshu/CSW-II-Labs#03-april-2023)
-
-[Date - 04 April 2023](https://github.com/i-dipanshu/CSW-II-Labs#04-april-2023)
-
-[Date - 10 April 2023](https://github.com/i-dipanshu/CSW-II-Labs#10-april-2023)
-
-[Date - 17 April 2023](https://github.com/i-dipanshu/CSW-II-Labs#17-april-2023)
-
-[Date - 18 April 2023](https://github.com/i-dipanshu/CSW-II-Labs#18-april-2023)
-
-[Assignment 1- Analysis and Array](https://github.com/i-dipanshu/CSW-II-Labs#assignment-1--analysis-and-array)
-
-[Assignment 2A - Abstract Data Type and Collection	6](https://github.com/i-dipanshu/CSW-II-Labs#assignment-2a---abstract-data-type-and-collection)
-
-[Assignment 2B - Abstract Data Type and Collections	7](https://github.com/i-dipanshu/CSW-II-Labs#assignment-2b---abstract-data-type-and-collections)
 
 ## Date - 14 March 2023
 1) Write a Java program that takes an integer array as input and returns the sum of all elements of the array.
