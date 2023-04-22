@@ -1,9 +1,12 @@
 # CSW II - MY Personal Dump
 This Repository is created for easy management and accessiblity.
 
+# Quick Access
+
 ### All Questions and Assignment - [Click Here](https://docs.google.com/document/d/1uKVStO99xYzFXuk5M1SF8tKDzGmFkglBB4OWE3OkE3k/edit#)
 
-# Quick Access
+### Run and Test - [Click Here](https://replit.com/@i-dipanshu/CSW-II-Labs)
+
 
 | Date | Question | Solution |
 |------|------| ------|
