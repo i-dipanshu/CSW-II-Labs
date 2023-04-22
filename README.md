@@ -9,24 +9,24 @@ This Repository is created for easy management and accessiblity.
 
 # Quick Access
 
-| Date | Link |
-|------|------|
-|14 March 2023|[Link](https://github.com/i-dipanshu/CSW-II-Labs#14-march-2023)|
+| Date | Question | Solution |
+|------|------| ------|
+|14 March 2023|[Link](https://github.com/i-dipanshu/CSW-II-Labs#14-march-2023)| 
 |17 March 2023|[Link](https://github.com/i-dipanshu/CSW-II-Labs#17-march-2023)|
 |27 March 2023|[Link](https://github.com/i-dipanshu/CSW-II-Labs#27-march-2023)|
 |28 March 2023|[Link](https://github.com/i-dipanshu/CSW-II-Labs#28-march-2023)|
 |31 March 2023|[Link](https://github.com/i-dipanshu/CSW-II-Labs#31-march-2023)|
 |03 April 2023|[Link](https://github.com/i-dipanshu/CSW-II-Labs#03-april-2023)|
 |04 April 2023|[Link](https://github.com/i-dipanshu/CSW-II-Labs#04-april-2023)|
-|10 April 2023|[Link](https://github.com/i-dipanshu/CSW-II-Labs#10-april-2023)|
-|17 April 2023|[Link](https://github.com/i-dipanshu/CSW-II-Labs#17-april-2023)|
-|18 April 2023|[Link](https://github.com/i-dipanshu/CSW-II-Labs#18-april-2023)|
+|10 April 2023|[Link](https://github.com/i-dipanshu/CSW-II-Labs#10-april-2023)|[Link](Classworks/April/April_10)|
+|17 April 2023|[Link](https://github.com/i-dipanshu/CSW-II-Labs#17-april-2023)|[Link](Classworks/April/April_17)|
+|18 April 2023|[Link](https://github.com/i-dipanshu/CSW-II-Labs#18-april-2023)|[Link](Classworks/April/April_18)|
 
-| Assignment | Link |
-|------|------|
-|Assignment 1- Analysis and Array|[Link](https://github.com/i-dipanshu/CSW-II-Labs#assignment-1--analysis-and-array)|
-|Assignment 2A - Abstract Data Type and Collection|[Link](https://github.com/i-dipanshu/CSW-II-Labs#assignment-2a---abstract-data-type-and-collection)|
-|Assignment 2B - Abstract Data Type and Collections|[Link](https://github.com/i-dipanshu/CSW-II-Labs#assignment-2b---abstract-data-type-and-collections)|
+| Assignment | Question | Solutions |
+|------|------| -----|
+|Assignment 1- Analysis and Array|[Link](https://github.com/i-dipanshu/CSW-II-Labs#assignment-1--analysis-and-array)|[Link](Assignment_1)
+|Assignment 2A - Abstract Data Type and Collection|[Link](https://github.com/i-dipanshu/CSW-II-Labs#assignment-2a---abstract-data-type-and-collection)|[Link](Assignment_2A)
+|Assignment 2B - Abstract Data Type and Collections|[Link](https://github.com/i-dipanshu/CSW-II-Labs#assignment-2b---abstract-data-type-and-collections)|[Link](Assignment_2B)
 
 
 ## 14 March 2023
@@ -71,6 +71,8 @@ Q1. Write a program to create an ArrayList of Integer type and perform the below
 (c.) Remove an element from an asked position.
 
 (d.) Add a condition to check whether the ArrayList is empty or not.
+
+
 
 Q2. Create a class Student having member variable name, age, mark, and required member functions. Create a LinkedList of Student type and perform the below operation on it.
 
