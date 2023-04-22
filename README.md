@@ -9,29 +9,31 @@ This Repository is created for easy management and accessiblity.
 
 # Quick Access
 
-[Date - 17 March 2023	2](#_w23sj8y5p94s)
+[14 March 2023](https://github.com/i-dipanshu/CSW-II-Labs#14-march-2023)
 
-[Date - 27 March 2023	2](#_sxiyn5vohah0)
+[17 March 2023](https://github.com/i-dipanshu/CSW-II-Labs#17-march-2023)
 
-[Date - 28 March 2023	2](#_84f0104egvaf)
+[27 March 2023](https://github.com/i-dipanshu/CSW-II-Labs#27-march-2023)
 
-[Date - 31 March 2023	3](#_q81rwfwa4loc)
+[28 March 2023](https://github.com/i-dipanshu/CSW-II-Labs#28-march-2023)
 
-[Date - 03 April 2023	3](#_je13mojt3c7q)
+[31 March 2023](https://github.com/i-dipanshu/CSW-II-Labs#31-march-2023)
 
-[Date - 04 April 2023	3](#_rx1xlatukmbu)
+[Date - 03 April 2023](https://github.com/i-dipanshu/CSW-II-Labs#03-april-2023)
 
-[Date - 10 April 2023	4](#_w989whm2mqmz)
+[Date - 04 April 2023](https://github.com/i-dipanshu/CSW-II-Labs#04-april-2023)
 
-[Date - 17 April 2023	4](#_rex6a9q0m2df)
+[Date - 10 April 2023](https://github.com/i-dipanshu/CSW-II-Labs#10-april-2023)
 
-[Date - 18 April 2023	4](#_mz6sfn9tavf0)
+[Date - 17 April 2023](https://github.com/i-dipanshu/CSW-II-Labs#17-april-2023)
 
-[Assignment 1- Analysis and Array	5](#_b8pet7tjzy4t)
+[Date - 18 April 2023](https://github.com/i-dipanshu/CSW-II-Labs#18-april-2023)
 
-[Assignment 2A - Abstract Data Type and Collection	6](#_d7st84491jnn)
+[Assignment 1- Analysis and Array](https://github.com/i-dipanshu/CSW-II-Labs#assignment-1--analysis-and-array)
 
-[Assignment 2B - Abstract Data Type and Collections	7](#_nkhk91nmaxg8)
+[Assignment 2A - Abstract Data Type and Collection	6](https://github.com/i-dipanshu/CSW-II-Labs#assignment-2a---abstract-data-type-and-collection)
+
+[Assignment 2B - Abstract Data Type and Collections	7](https://github.com/i-dipanshu/CSW-II-Labs#assignment-2b---abstract-data-type-and-collections)
 
 ## Date - 14 March 2023
 1) Write a Java program that takes an integer array as input and returns the sum of all elements of the array.
